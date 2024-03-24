@@ -24,7 +24,7 @@ The preprocessing steps performed on the Airbnb dataset include:
 
 ## Usage
 1. Clone the repository to your local machine:
-git clone https://github.com/your-username/airbnb-preprocessing.git
+git clone https://github.com/elaavs1997@gamil.com/airbnb-preprocessing.git
 2. Navigate to the project directory:
  cd airbnb-preprocessing
 3. Run the preprocessing scripts or explore the Jupyter notebooks in the `notebooks/` directory to understand the preprocessing steps.
